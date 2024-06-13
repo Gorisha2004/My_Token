@@ -1,0 +1,1 @@
+This project is about to create your own tokens in smart contract with token name, their abbreviations, the total supply of the token. This all could be maintained and at one address there could me many tokens which are maintained using this project.
